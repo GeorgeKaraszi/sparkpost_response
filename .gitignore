@@ -1,0 +1,14 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+test/
+/.idea/
+
+.idea/misc.xml
+.idea/misc.xml
